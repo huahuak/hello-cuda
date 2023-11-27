@@ -1,0 +1,4 @@
+cuda_example/
+cuda-samples-master/
+build/
+.vscode/
